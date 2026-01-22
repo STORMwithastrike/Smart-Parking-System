@@ -23,3 +23,14 @@ The purpose of this project is to create a smart parking system. Initially, The 
 | car-detect_in_sensor2 | V8 | Input | Active Low. Exit/Pass Sensor (Detects car passing the gate)|
 | servo_motor | W6 | Output | 20ns PWM signal to control the servo motor angle|
 | seg_display_ofnumbers |  | Output | Active Low. 7 DOWNTO 0 Bit vector such that each bit maps to a distinct segment |
+
+#### 7-Segment Display Pin Assignment
+| Bit Vector | Pin |
+|     :---:      |     :---:      |  
+| seg_display_ofnumbers[0] | C17 | 
+| seg_display_ofnumbers[1] | D17 | 
+| seg_display_ofnumbers[2] | E16 | 
+| seg_display_ofnumbers[3] | C16 | 
+| seg_display_ofnumbers[4] | C15 |
+| seg_display_ofnumbers[5] | E15 |
+| seg_display_ofnumbers[6] | C14 |
