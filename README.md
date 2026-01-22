@@ -11,3 +11,15 @@ The purpose of this project is to create a smart parking system. Initially, The 
 * 1x **Breadboard**
 * xx **Male-to-Female Wires**
 * xx **Female-to-Male Wires**
+
+## 🔧Pin Assigments
+| Signal Name | Pin | Input/Output | Description |
+|     :---:      |     :---:      |     :---:      |     :---:      |
+| clk        | P11        | Input        | 50MHz System Clock        |
+| reset_btn        | B8       | Input        | Active Low. Resets the counter to 8 and closes the gate.|
+| auto_manual_switch        | C10        | Input        | System mode: 1=Auto, 0=Manual        |
+| open_close_button        | A7        | Input        | Active low. Button for opening/closing the gate.|
+| car_detect_in_sensor1 | V10 | Input | Active Low. Entry Sensor (Detects car passing the gate)|
+| car-detect_in_sensor2 | V8 | Input | Active Low. Exit/Pass Sensor (Detects car passing the gate)|
+| servo_motor | W6 | Output | 20ns PWM signal to control the servo motor angle|
+| seg_display_ofnumbers |  | Output | Active Low. 7 DOWNTO 0 Bit vector such that each bit maps to a distinct segment |
