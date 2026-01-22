@@ -1,0 +1,37 @@
+# --- Quartus Prime Generated Folders ---
+# These contain massive temporary compilation databases
+/quartus/db/
+/quartus/incremental_db/
+/quartus/output_files/
+/quartus/simulation/
+/quartus/greybox_tmp/
+
+# --- Quartus Temporary & User Files ---
+# .qws = User window layout preferences (personal to you)
+# .bak = Backup files created by Quartus
+# .done = Internal status flags
+*.qws
+*.bak
+*.done
+*.smsg
+*.qte
+*.qtm
+*.dpf
+
+# --- ModelSim / Questa Simulation Junk ---
+# If you run simulations, these files get created
+transcript
+*.wlf
+/tb/work/
+
+# --- Compiled Bitstreams (Optional) ---
+# Usually you don't commit binaries, but if you WANT to save
+# your final compiled FPGA file, remove the *.sof line below.
+*.sof
+*.pof
+*.jam
+*.jbc
+
+# --- OS System Files ---
+.DS_Store
+Thumbs.db
