@@ -39,4 +39,4 @@ The idea of this project is to create a smart parking system. Initially, The num
 | seg_display_ofnumbers[5] | E15 |
 | seg_display_ofnumbers[6] | C14 |
 
-![Inside Mess lol](docs/RTL_Schematic.jpg)
+![RTL Schematic](docs/RTL_Schematic.png)
