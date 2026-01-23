@@ -14,6 +14,8 @@ The idea of this project is to create a smart parking system. Initially, The num
 * xx **Male-to-Female Wires**
 * xx **Female-to-Male Wires**
 
+![Inside Mess lol](docs/Inside_Mess.jpg)
+
 ## 📌Pin Assigments
 | Signal Name | Pin | Input/Output | Description |
 |     :---:      |     :---:      |     :---:      |     :---:      |
@@ -37,3 +39,4 @@ The idea of this project is to create a smart parking system. Initially, The num
 | seg_display_ofnumbers[5] | E15 |
 | seg_display_ofnumbers[6] | C14 |
 
+![Inside Mess lol](docs/RTL_Schematic.jpg)
