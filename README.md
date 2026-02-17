@@ -41,8 +41,7 @@ The idea of this project is to create a smart parking system. Initially, The num
 
 ![RTL Schematic](docs/RTL_Schematic.png)
 
-### 👥 Team Members
----
+## 👥 Team Members
 * *Mario Gadallah* – [LinkedIn](https://www.linkedin.com/in/-mario-gadallah-/)
 * *Yassin Mohamed Ahmed* – [LinkedIn](https://www.linkedin.com/in/yassin-moatasem-293109380/)
 * *Amr Sharaf* – [LinkedIn](https://www.linkedin.com/in/amr-sharaf-240237373/)
